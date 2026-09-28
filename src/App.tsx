@@ -2,8 +2,6 @@ import './App.css'
 import Product from './components/products'
 
 
-
-
 function App() {
 
   function add(a:number, b:number):number{
